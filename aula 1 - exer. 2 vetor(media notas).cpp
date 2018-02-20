@@ -1,4 +1,4 @@
-//Exer. 2 - Faça um prog em C para ler um vetor de 1- numeros e imprimir o maior numero lido
+//Exer. 2 - FaÃ§a um prog em C para ler um vetor de 1- numeros e imprimir o maior numero lido
 // Supondo que os numeros anteriores sao notas, calcule a media da turma e quantos alunos
 // tiraram nota acima desta media calculada.
 
